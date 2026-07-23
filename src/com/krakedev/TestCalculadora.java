@@ -21,6 +21,11 @@ public class TestCalculadora {
 		
 		System.out.println("Resultado Multiplicación: " + multiplicar);
 		
+		double dividir;
+		dividir = c1.dividir(10, 2);
+		
+		System.out.println("Resultado Divición: " + dividir);
+		
 
 	}
 

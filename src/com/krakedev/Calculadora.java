@@ -29,4 +29,13 @@ public double multiplicar(double a, double b) {
 	
 }
 
+public double dividir(double a, double b) {
+	
+	double resultado;
+	resultado = a / b;
+	
+	return resultado;
+	
+}
+
 }
