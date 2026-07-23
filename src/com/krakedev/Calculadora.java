@@ -47,4 +47,8 @@ public double promediar(double a, double b, double c) {
 	
 }
 
+public void mostrarResultado(){
+	System.out.println("Ahorita no joven, Salí al almuerzo. Regreso en 15 minutos");
+}
+
 }

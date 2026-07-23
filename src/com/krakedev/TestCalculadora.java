@@ -31,6 +31,8 @@ public class TestCalculadora {
 		
 		System.out.println("Resultado Promedio: " + promediar);
 		
+		c1.mostrarResultado();
+		
 
 	}
 
