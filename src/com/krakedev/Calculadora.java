@@ -20,4 +20,13 @@ public int restar(int a, int b) {
 		
 	}
 
+public double multiplicar(double a, double b) {
+	
+	double resultado;
+	resultado = a * b;
+	
+	return resultado;
+	
+}
+
 }

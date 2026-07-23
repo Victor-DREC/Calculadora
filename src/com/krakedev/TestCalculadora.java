@@ -16,6 +16,11 @@ public class TestCalculadora {
 		
 		System.out.println("Resultado Resta: " + r2);
 		
+		double multiplicar;
+		multiplicar = c1.multiplicar(10, 5);
+		
+		System.out.println("Resultado Multiplicación: " + multiplicar);
+		
 
 	}
 
